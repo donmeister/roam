@@ -1,0 +1,2 @@
+rune,north,rune,42,25,east,rune,0,13,south,south_rune,18,0,west,rune,69,13
+south_rune,north,rune,42,25,east,south_rune,1,1,south,south_rune,1,1,west,south_rune,1,1
