@@ -1,2 +1,5 @@
-rune,north,rune,42,25,east,rune,0,13,south,south_rune,18,0,west,rune,69,13
+rune,north,north_rune,25,7,east,east_rune,0,4,south,south_rune,18,0,west,west_rune,27,2
 south_rune,north,rune,42,25,east,south_rune,1,1,south,south_rune,1,1,west,south_rune,1,1
+east_rune,north,east_rune,1,1,east,east_rune,1,1,south,east_rune,1,1,west,rune,69,13
+west_rune,north,west_rune,1,1,east,rune,0,13,south,west_rune,1,1,west,west_rune,1,1
+north_rune,north,north_rune,1,1,east,north_rune,1,1,south,rune,36,0,west,north_rune,1,1
